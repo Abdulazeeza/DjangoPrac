@@ -6,9 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
-bin
-include
-lib
+.lib
+.include
+.bin
 
 # Distribution / packaging
 .Python
